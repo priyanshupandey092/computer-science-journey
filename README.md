@@ -1,7 +1,8 @@
 # Computer Science Journey
 
-This repository showcases my learning journey in Python programming and web
-development, focusing on building strong fundamentals and practical skills.
+This repository documents my learning journey in Python programming and web
+development, with a strong focus on fundamentals, problem solving, and
+building practical skills.
 
 ## Skills & Technologies
 - Python (fundamentals, problem solving)
@@ -9,7 +10,7 @@ development, focusing on building strong fundamentals and practical skills.
 - JavaScript (basic)
 - Git & GitHub
 
-## Projects Structure
+## Project Structure
 - python/
   - basics/
   - mini-projects/
@@ -18,11 +19,11 @@ development, focusing on building strong fundamentals and practical skills.
   - css/
   - javascript/
 
-## Future Goals
+## Learning & Future Goals
 - Backend development using Python
-- Web frameworks (Flask / Django)
-- Database integration
-- Full-stack web projects
+- Web frameworks: Flask / Django
+- Database integration (MySQL)
+- Full-stack web application development
 
 ## Author
 Priyanshu Pandey
